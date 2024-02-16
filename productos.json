@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "nombre": "Smartphone",
+    "descripcion": "Samsung A71",
+    "precio": 2000,
+    "imagen": "Sin imagen",
+    "code": "abc100",
+    "stock": 25
+  },
+  {
+    "Id": 2,
+    "nombre": "Smartphone",
+    "descripcion": "Iphone 15",
+    "precio": 6000,
+    "imagen": "Sin imagen",
+    "code": "abc104",
+    "stock": 18
+  },
+  {
+    "Id": 3,
+    "nombre": "Smartphone",
+    "descripcion": "Samsung A24",
+    "precio": 3000,
+    "imagen": "Sin imagen",
+    "code": "abc101",
+    "stock": 20
+  },
+  {
+    "Id": 4,
+    "nombre": "Smartphone",
+    "descripcion": "Samsung A52",
+    "precio": 4000,
+    "imagen": "Sin imagen",
+    "code": "abc102",
+    "stock": 15
+  },
+  {
+    "Id": 5,
+    "nombre": "Smartphone",
+    "descripcion": "Iphone 14",
+    "precio": 7000,
+    "imagen": "Sin imagen",
+    "code": "abc105",
+    "stock": 31
+  },
+  {
+    "Id": 6,
+    "nombre": "Smartphone",
+    "descripcion": "Iphone 15 PRO",
+    "precio": 8000,
+    "imagen": "Sin imagen",
+    "code": "abc106",
+    "stock": 40
+  },
+  {
+    "Id": 7,
+    "nombre": "Smartphone",
+    "descripcion": "Samsung S23",
+    "precio": 9000,
+    "imagen": "Sin imagen",
+    "code": "abc107",
+    "stock": 10
+  },
+  {
+    "Id": 8,
+    "nombre": "Smartphone",
+    "descripcion": "Samsung S21",
+    "precio": 5000,
+    "imagen": "Sin imagen",
+    "code": "abc109",
+    "stock": 17
+  },
+  {
+    "Id": 9,
+    "nombre": "Smartphone",
+    "descripcion": "Motorolla E40",
+    "precio": 5000,
+    "imagen": "Sin imagen",
+    "code": "abc103",
+    "stock": 23
+  },
+  {
+    "Id": 10,
+    "nombre": "Smartphone",
+    "descripcion": "Samsung S22",
+    "precio": 6000,
+    "imagen": "Sin imagen",
+    "code": "abc108",
+    "stock": 12
+  }
+]
